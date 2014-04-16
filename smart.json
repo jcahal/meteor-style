@@ -1,9 +1,9 @@
 {
   "name": "style",
   "description": "REPLACEME - What does this package (or the original one you're wrapping) do?",
-  "homepage": "",
-  "author": "Your Name <your@email> (http://yoursite)",
+  "homepage": "https://github.com/jcahal/meteor-style",
+  "author": "Jonathan Cahal jacahal@gmail.com",
   "version": "0.0.1",
-  "git": "",
+  "git": "https://github.com/jcahal/meteor-style.git",
   "packages": {}
 }
